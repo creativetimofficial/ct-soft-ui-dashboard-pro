@@ -1,6 +1,6 @@
 # [Soft UI Dashboard PRO](http://demos.creative-tim.com/soft-ui-dashboard-pro/pages/dashboards/default.html?ref=readme-sudp)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/487/original/opt_sdp_thumbnail.jpg)
 
