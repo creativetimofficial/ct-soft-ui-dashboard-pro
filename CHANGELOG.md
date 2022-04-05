@@ -1,5 +1,37 @@
 # Change Log
 
+## [1.0.8] 2022-04-05
+### Bugfixing
+- fix the handling from configurator of navbar-fixed
+- Dark/Light Mode issues
+- fix vertical scroll and Charts on RTL Page
+- fix documentation icons issue
+- fix nav-ills horizontal alignment on small screens
+
+## [1.0.7] 2022-01-17
+### Bugfixing
+- fix navbar dropdown bug on Windows OS - Authentication pages
+- fix overlapping sidebar over main-content bug on Windows OS
+
+## [1.0.6] 2022-01-14
+### Bugfixing
+- fix navbar dropdown on responsive - Authentication pages
+
+## [1.0.5] 2021-12-08
+### Updates and Improvements
+- update Bootstrap to v5.1.3
+- add new page - Chat/Messages
+- add Dark Mode
+- fix navbar issues
+- solve sidebar visibility problems on responsive
+- update Documentation
+
+## [1.0.4] 2021-09-03
+### Updates and Improvements
+- update Bootstrap to v5.1.0
+- fix modal backdrop on Kanban Page
+- fix Kanban item error on click
+
 ## [1.0.3] 2021-07-02
 ### Bugfixing & Improvements
 - fix double scrollbars on Windows devices
