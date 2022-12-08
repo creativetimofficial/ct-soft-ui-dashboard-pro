@@ -1,5 +1,25 @@
 # Change Log
 
+## [1.1.1] 2022-12-08
+### Updates & Bugfixing
+- upgrade Bootstrap version to v5.2.3
+- fix the Leaflet images error
+- fix modals and sweet alert z-index issue
+
+## [1.1.0] 2022-10-06
+### Improvements & Bugfixing
+- upgrade Bootstrap version to v5.2.2
+- update Popper version
+- update nav-link on navbar dark
+- fix `input-group-text` focus state
+- fix `pagination` and `accordion` text color
+- update `.container-fluid` and `.container` padding-x
+
+## [1.0.9] 2022-06-03
+### Updates and Improvements
+- update Bootstrap to v5.2.0-beta1
+- fix input-group focus issue
+
 ## [1.0.8] 2022-04-05
 ### Bugfixing
 - fix the handling from configurator of navbar-fixed
