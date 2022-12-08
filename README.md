@@ -1,6 +1,6 @@
 # [Soft UI Dashboard PRO](https://demos.creative-tim.com/soft-ui-dashboard-pro/pages/dashboards/default.html?ref=readme-sudp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-dashboard-pro&text=Check%20Soft%20UI%20Dashboard%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#html%20https://www.creative-tim.com/product/soft-ui-dashboard-pro)
 
-![version](https://img.shields.io/badge/version-1.0.8-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.1.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-soft-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-soft-ui-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-soft-ui-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/487/original/opt_sdp_thumbnail.jpg)
 
@@ -63,17 +63,22 @@ Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
--   [Versions](#versions)
--   [Demo](#demo)
--   [Quick Start](#quick-start)
--   [Documentation](#documentation)
--   [File Structure](#file-structure)
--   [Browser Support](#browser-support)
--   [Resources](#resources)
--   [Reporting Issues](#reporting-issues)
--   [Technical Support or Questions](#technical-support-or-questions)
--   [Licensing](#licensing)
--   [Useful Links](#useful-links)
+- [Soft UI Dashboard PRO [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-dashboard-pro&text=Check%20Soft%20UI%20Dashboard%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#html%20https://www.creative-tim.com/product/soft-ui-dashboard-pro)](#soft-ui-dashboard-pro-)
+      - [Special thanks](#special-thanks)
+  - [Table of Contents](#table-of-contents)
+  - [Versions](#versions)
+  - [Demo](#demo)
+  - [Quick start](#quick-start)
+  - [Terminal Commands](#terminal-commands)
+  - [Documentation](#documentation)
+    - [What's included](#whats-included)
+  - [Browser Support](#browser-support)
+  - [Resources](#resources)
+  - [Reporting Issues](#reporting-issues)
+  - [Technical Support or Questions](#technical-support-or-questions)
+  - [Licensing](#licensing)
+  - [Useful Links](#useful-links)
+        - [Social Media](#social-media)
 
 ## Versions
 
